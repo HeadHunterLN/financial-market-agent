@@ -1,0 +1,36 @@
+{
+  "rss_sources": [
+    {
+      "name": "Yahoo Finance",
+      "category": "markets",
+      "url": "https://finance.yahoo.com/news/rssindex"
+    },
+    {
+      "name": "CNBC Markets",
+      "category": "markets",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+    },
+    {
+      "name": "MIT Technology Review AI",
+      "category": "ai",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+    },
+    {
+      "name": "The Verge AI",
+      "category": "ai",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    {
+      "name": "Semiconductor Engineering",
+      "category": "chips",
+      "url": "https://semiengineering.com/feed/"
+    }
+  ],
+  "user_sources_to_add": [
+    {
+      "name": "Добавь сюда свой портал",
+      "category": "markets | ai | chips | fintech",
+      "url": "https://example.com/rss"
+    }
+  ]
+}

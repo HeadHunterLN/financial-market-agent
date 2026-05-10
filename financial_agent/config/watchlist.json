@@ -1,0 +1,47 @@
+{
+  "ai_and_mega_cap": [
+    "NVDA",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "META",
+    "TSLA",
+    "PLTR",
+    "CRM",
+    "ORCL",
+    "ADBE"
+  ],
+  "chips_and_infrastructure": [
+    "AMD",
+    "AVGO",
+    "TSM",
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "MU",
+    "INTC",
+    "ARM",
+    "QCOM"
+  ],
+  "financial_industry": [
+    "JPM",
+    "GS",
+    "MS",
+    "V",
+    "MA",
+    "PYPL",
+    "COIN",
+    "BLK",
+    "SCHW",
+    "AXP"
+  ],
+  "market_benchmarks": [
+    "SPY",
+    "QQQ",
+    "DIA",
+    "IWM",
+    "SMH",
+    "XLF",
+    "VIXY"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "base_currency": "USD",
+  "portfolio_capital": null,
+  "weekly_new_capital": null,
+  "risk_profile": "balanced",
+  "max_single_position_pct": 8,
+  "max_new_position_pct": 4,
+  "max_sector_exposure_pct": 35,
+  "preferred_horizon": "6-24 months",
+  "minimum_liquidity": "large and mid cap public equities",
+  "avoid": [
+    "penny stocks",
+    "illiquid assets",
+    "high leverage without explicit approval"
+  ],
+  "recommendation_rules": [
+    "Use position sizing, not all-in calls.",
+    "Separate thesis, catalyst, valuation risk, and downside scenario.",
+    "Flag uncertainty clearly when data is incomplete.",
+    "Treat outputs as research ideas, not guaranteed financial advice."
+  ]
+}

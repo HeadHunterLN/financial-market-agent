@@ -2,6 +2,8 @@
 
 Репозиторий для персонального финансового аналитического агента.
 
+Your financial agent that helps you follow recent financial market trends and structure investment research.
+
 Агент еженедельно собирает рыночные данные и новости, обновляет память, формирует отчёт на русском языке и сохраняет выводы в Git, чтобы историю можно было переносить в GitHub.
 
 ## Структура
